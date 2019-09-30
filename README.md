@@ -11,7 +11,7 @@ An objective machine-driven measure of song intelligibility would be of great ut
 
 ## Instructions
 
-1. SongIntelligibility.tar.gz containes the main program and all dependent functions used in this work.
+1. SongIntelligibility.tar.gz contains the main program and all dependent functions used in this work.
 2. SongIntelligibilityMain.m is the Main Program.
 3. Please email to the author (s.bidisha@nus.edu.sg), if you want to use the pretrained SVM model for automatic song intelligibility evaluation.
 
