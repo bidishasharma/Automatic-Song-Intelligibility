@@ -9,4 +9,6 @@ An objective machine-driven measure of song intelligibility would be of great ut
 3. voicebox
 4. Wav-U-Net (https://github.com/f90/Wave-U-Net)
 
-### SongIntelligibilityMain.m is the Main Program
+#### SongIntelligibilityMain.m is the Main Program
+#### Email to s.bidisha@nus.edu.sg to if you want to use the pretrained SVM model
+
