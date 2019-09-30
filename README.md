@@ -11,5 +11,5 @@ An objective machine-driven measure of song intelligibility would be of great ut
 
 ## Instructions
 SongIntelligibilityMain.m is the Main Program.
-Email to s.bidisha@nus.edu.sg to if you want to use the pretrained SVM model for automatic song intelligibility evaluation.
+Email to s.bidisha@nus.edu.sg, if you want to use the pretrained SVM model for automatic song intelligibility evaluation.
 
